@@ -12,6 +12,12 @@ Contributor funding will often be much simpler and quicker than idea funding as 
 
 **Collaborative & supportive structure**
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/contributor-collaborative-structure.png" alt="" width="377"><figcaption></figcaption></figure>
+
+</div>
+
 Open source contributors can help with creating a collaborative and supportive structure that sits on top of the founding entities. Contributors will help with the development of various open source libraries that are beneficial to the ecosystem but they can also collaborate with the founding entities, community and existing projects over different issues and opportunities. The ecosystem can benefit from contributors that are able to work across many ideas and respond to what is happening in the ecosystem as they can then align themselves with contribution efforts that could generate the most impact. This could mean creating new libraries or adding features to existing ones based on feedback from founding entities or existing community projects. Even a small cohort of open source contributors will be useful for learning about how a collaborative and supportive structure could be beneficial to the ecosystem.
 
 
