@@ -10,9 +10,11 @@
 
 </div>
 
+
+
 ## **Contact details**
 
-Add any other relevant contact details in the same format as the suggestions below.
+Contributors can list out any contact details so that people can contact them. Other relevant contact details in the same format as below can also be added.
 
 **Email** - Required.
 
@@ -26,7 +28,7 @@ Add any other relevant contact details in the same format as the suggestions bel
 
 ## **Professional profiles & links**
 
-Other professional profiles can be added that showcase the contributors professional history in the same format as the suggestions below.
+Contributors can share their professional profiles to showcase the previous roles they have worked on. Other professional profiles could also be added below the suggestions below if they help with showcasing the contributors professional history.
 
 **LinkedIn** - Optional.
 
@@ -40,7 +42,7 @@ Other professional profiles can be added that showcase the contributors professi
 
 ## **Professional history**
 
-If the contributor has already provided a professional profile that documents their professional history they can respond with "Full details on LinkedIn profile".
+If the contributor has provided a professional profile that documents their professional history they can respond with "Full details on LinkedIn profile".
 
 If the contributor does not have a professional profile that documents their professional history then they can chronologically list out their recent roles, up to a maximum of 5, in the following format:
 
@@ -51,9 +53,11 @@ If the contributor does not have a professional profile that documents their pro
 
 ## **Recent contributions**
 
-If the contributor have not made any recent or relevant contributions to any Web3 ecosystems they can respond with "New to ecosystem."
+Contributors can list out any relevant or recent contributions they have made to a Web3 ecosystem. Contributors should highlight the contributions that help to most effectively showcase their skills, expertise and performance.&#x20;
 
-If the contributor has made some recent contributions that are worth sharing they can chronologically list out the most recent or the most relevant ones, up to a maximum of 5, in the following format:&#x20;
+Contributors that have not made any recent or relevant contributions to a Web3 ecosystem can respond with "New to the ecosystem."
+
+If the contributor has made some recent contributions that they want to share they can chronologically list the most recent or relevant ones, up to a maximum of 5, in the following format:&#x20;
 
 * Contribution name with a link if possible (Start date - End date, e.g. Jan 2001 - Feb 2002) - Explanation about contribution
   * Contribution link or task - Description about a more specific contribution task
@@ -62,9 +66,9 @@ If the contributor has made some recent contributions that are worth sharing the
 
 ## **Ecosystem involvement**&#x20;
 
-Ecosystem involvement means things such as events, meet ups, discussions and any other form of participation in the ecosystem.&#x20;
+Contributors can provide more information about how they are getting involved in the ecosystem that they are requesting funding from. Ecosystem involvement means things such as events, meet ups, discussions and any other form of participation in the ecosystem.&#x20;
 
-If the contributor has not got involved in the ecosystem recently they can respond with "New to ecosystem." or "No recent involvement."
+If the contributor has not got involved in the ecosystem recently they can respond with "New to the ecosystem." or "No recent involvement."
 
 If the proposal has been involved in some different events they can chronologically list out, up to a maximum of 5, the most relevant or recent events in the following format:
 
@@ -75,10 +79,10 @@ If the proposal has been involved in some different events they can chronologica
 
 ## **Preferred areas of contribution**
 
-The preferred areas of contribution section is where contributors can highlight what they are interested in working on broadly or very specifically.
+Contributors can highlight what their preferred areas of contribution are. Some contributors might broadly want to work in a certain area, others may already know what open source project they want to work on specifically and others may be flexible to work on any suggested community idea.
 
-If the contributor doesn't have any strong preferences and is flexible to work on any ideas that could generate impact for the ecosystem they can respond with "Looking to contribute towards community suggested ideas". Community suggested ideas also include any suggestions that come from the founding entities or other contributors.
+If the contributor doesn't currently have any strong preferences about what they work on in the ecosystem they can respond with "Looking to contribute towards community suggested ideas". Community suggested ideas would also include any suggestions that come from the founding entities and other contributors.
 
-Contributors that have some preferences about what they are working on can list out the initiatives or focus areas that are most interested in, up to a maximum of 5, in the following format:&#x20;
+Contributors that do have any preferences about what they are working on can list out the initiatives or focus areas that they are most interested in, up to a maximum of 5, in the following format:&#x20;
 
 * Name of project or focus area with a link if possible - Description of the tasks involved in working on that project or an outline of why the contributor is interested in that focus area and why these tasks or focus area is suitable for the contributor based on their own skills and expertise.
