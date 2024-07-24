@@ -4,6 +4,6 @@ description: List of form templates that could be used for a contributor funding
 
 # Forms
 
-{% content-ref url="contributor-proposal-template.md" %}
-[contributor-proposal-template.md](contributor-proposal-template.md)
+{% content-ref url="contributor-proposal.md" %}
+[contributor-proposal.md](contributor-proposal.md)
 {% endcontent-ref %}

@@ -9,7 +9,7 @@
 * [Funding process roadmap](contributor-funding-experiment/funding-process-roadmap.md)
 * [Templates](contributor-funding-experiment/templates/README.md)
   * [Forms](contributor-funding-experiment/templates/forms/README.md)
-    * [Contributor Proposal Template](contributor-funding-experiment/templates/forms/contributor-proposal-template.md)
+    * [Contributor Proposal](contributor-funding-experiment/templates/forms/contributor-proposal.md)
   * [Questionnaires](contributor-funding-experiment/templates/questionnaires/README.md)
     * [Contributor proposal submission feedback](contributor-funding-experiment/templates/questionnaires/contributor-proposal-submission-feedback.md)
     * [Contributor selection decision feedback](contributor-funding-experiment/templates/questionnaires/contributor-selection-decision-feedback.md)
