@@ -1,12 +1,10 @@
 ---
 description: >-
-  Template questionnaires that could be used at different stages of a
-  contributor funding process
+  List of questionnaire templates that could be used for a contributor funding
+  experiment
 ---
 
 # Questionnaires
-
-**Contributor funding questionnaire templates**
 
 {% content-ref url="contributor-proposal-submission-feedback.md" %}
 [contributor-proposal-submission-feedback.md](contributor-proposal-submission-feedback.md)
