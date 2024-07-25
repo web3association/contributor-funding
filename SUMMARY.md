@@ -16,6 +16,8 @@
     * [Contributor peer review & feedback](contributor-funding-experiment/templates/questionnaires/contributor-peer-review-and-feedback.md)
     * [Voter experiment feedback](contributor-funding-experiment/templates/questionnaires/voter-experiment-feedback.md)
     * [Contributor experiment feedback](contributor-funding-experiment/templates/questionnaires/contributor-experiment-feedback.md)
+  * [Voting](contributor-funding-experiment/templates/voting/README.md)
+    * [Contributor Voting Template](https://docs.google.com/spreadsheets/d/1vxd9KvrnAJX378e\_2sJmo00CKzRZF3t1Efj5\_FJ1jJA)
 
 ## 🔗 Links
 
