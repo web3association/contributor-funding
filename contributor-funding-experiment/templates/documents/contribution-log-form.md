@@ -1,12 +1,12 @@
 # Contribution log form
 
-**Contribution length -** Add the number of days contributed or state "Full month" if contribution efforts were made over the whole month.
+**Contribution duration -** State the number of working days that you contributed during this month. If you contributed during the whole month you can simply state "Full month".
 
 
 
 ## **Overview**
 
-Add a brief overview overing what you worked on this month. Optional.
+Add a brief overview overing what you worked on this month. Use bullet points to separate out the different contribution areas. Optional.
 
 
 
