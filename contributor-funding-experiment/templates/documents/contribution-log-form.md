@@ -16,6 +16,8 @@ Contribution outputs should provide evidence of a generated contribution output.
 
 * Contribution output title \[Add evidence link as part of the title] - Optional description about the contribution.
 
+If there are many entries in a single contribution area they can be grouped together under different titles to better categorise them and make it easier to read.
+
 
 
 **Code**
