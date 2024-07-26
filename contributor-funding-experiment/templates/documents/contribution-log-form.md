@@ -1,5 +1,15 @@
 # Contribution log form
 
+**Contribution length -** Add the number of days contributed or state "Full month" if contribution efforts were made over the whole month.
+
+
+
+## **Overview**
+
+Add a brief overview overing what you worked on this month. Optional.
+
+
+
 ## **Contribution outputs**
 
 Contribution outputs should provide evidence of a generated contribution output. Contribution outputs should be publicly accessible and available online for others to verify and review. For any of the following contribution outputs the format for adding each item is:
@@ -29,6 +39,18 @@ List any designs that have been created or improved. Designs could include mocku
 **Video recordings**
 
 List any recorded videos that provide evidence of recent events, discussions or meetings with other community members or contributors. Add description information about when the video was from and what it was about.
+
+
+
+**Systems & parameters**
+
+List out any new systems or parameter changes. This could include things like the operational efforts to launch or maintain a website, backend or other application.
+
+
+
+**Project management**
+
+List out any projects where you have been managing the updates and actively helping with the contribution efforts. This focuses on broader coordination efforts rather than your own specific contribution tasks.
 
 
 
