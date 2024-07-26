@@ -4,8 +4,8 @@ description: A list of templates that could be used for a contributor funding ex
 
 # Templates
 
-{% content-ref url="forms/" %}
-[forms](forms/)
+{% content-ref url="documents/" %}
+[documents](documents/)
 {% endcontent-ref %}
 
 {% content-ref url="questionnaires/" %}
