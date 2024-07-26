@@ -38,9 +38,9 @@ List any designs that have been created or improved. Designs could include mocku
 
 
 
-**Video recordings**
+**Videos**
 
-List any recorded videos that provide evidence of recent events, discussions or meetings with other community members or contributors. Add description information about when the video was from and what it was about.
+List any videos you made and any recorded videos that provide evidence of recent events, discussions or meetings with other community members or contributors. Add description information about when the video was from and what it was about.
 
 
 
