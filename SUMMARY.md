@@ -12,6 +12,7 @@
     * [Contributor proposal form](contributor-funding-experiment/templates/documents/contributor-proposal-form.md)
     * [Contributor voting sheet](https://docs.google.com/spreadsheets/d/1vxd9KvrnAJX378e\_2sJmo00CKzRZF3t1Efj5\_FJ1jJA)
     * [Contribution log form](contributor-funding-experiment/templates/documents/contribution-log-form.md)
+    * [Contribution attestation form](contributor-funding-experiment/templates/documents/contribution-attestation-form.md)
   * [Questionnaires](contributor-funding-experiment/templates/questionnaires/README.md)
     * [Contributor proposal submission feedback](contributor-funding-experiment/templates/questionnaires/contributor-proposal-submission-feedback.md)
     * [Contributor selection decision feedback](contributor-funding-experiment/templates/questionnaires/contributor-selection-decision-feedback.md)
