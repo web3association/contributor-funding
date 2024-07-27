@@ -1,5 +1,7 @@
 # Contribution log form
 
+**Pull request** - Once a pull request has been submitted the contribution log can be updated to include a link to it. This will make it easier for people to view any contribution attestations that get left on the pull request.
+
 **Contribution duration -** State the number of working days that you contributed during this month. If you contributed during the whole month you can simply state "Full month".
 
 
