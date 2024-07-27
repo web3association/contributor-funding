@@ -20,7 +20,7 @@ Questionnaire for contributors to complete after the funding experiment is compl
 
 
 
-**5. How difficult was it to get attestations from others about your contribution efforts (Required)**
+**5. How difficult was it to get attestations from others about your contribution efforts? (Required)**
 
 1. Very difficult
 2. Somewhat difficult
