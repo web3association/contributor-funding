@@ -37,4 +37,4 @@ Questionnaire for voters to complete after the funding experiment is completed.
 
 
 
-**7. What feedback, if any, do you have about this funding process and how it could be improved? What improvements should be prioritised if this funding process was to be run again?**
+**7. What feedback, if any, do you have about this funding process and how it could be improved? What improvements should be prioritised if this funding process was to be run again? (Optional)**
