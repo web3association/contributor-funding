@@ -4,9 +4,9 @@
 
 
 
-**Contribution(s)**
+**Contributions being attested**
 
-List the contribution efforts from someones contribution log that you are making an attestation for.
+List of the contribution efforts from someones contribution log that you are making attestations for. Use the same titles or links they used in their contribution log.
 
 
 
