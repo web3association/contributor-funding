@@ -43,3 +43,13 @@ Google Forms will handle any questionnaires that will be shared throughout the f
 [**Canny**](https://canny.io/)
 
 Canny will be used for handling priority suggestions from the community. Any community member can sign up using a social login to submit their own priority suggestions. Community members can comment on existing suggestions to give their feedback and also upvote any suggestions that they believe are the most important. Contributors will then take these suggestions into account when deciding how they should best spend their time to generate impact for the ecosystem.
+
+
+
+[**Telegram**](https://telegram.org/)
+
+Telegram will be used for the following conversations:
+
+* Funding process chat - To answer any questions and concerns about the funding process
+* Open contributor chat - To enable anyone in the community to give feedback and make suggestions about what the contributors are working on or to have any other relevant discussion.
+* Internal contributor chat - For contributors to collaborate together and also communicate with the founding entities about their contributions, technical topics or other relevant topic areas.
