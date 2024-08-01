@@ -10,7 +10,7 @@ Approval voting is where voters can approve as many proposal as they like. The v
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

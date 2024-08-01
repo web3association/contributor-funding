@@ -16,7 +16,7 @@ Contributors have the goal of generating as much impact as possible for the ecos
 
 Contributors need to submit a proposal to be considered as a contributor candidate.
 
-1. **Copy contributor proposal template** - Fork the GitHub project \[LINK] locally. Copy the [contributor proposal template](../forms/contributor-proposal.md) or copy an example contributor proposal \[LINK] and create a file in the candidates folder.
+1. **Copy contributor proposal template** - Fork the GitHub project \[LINK] locally. Copy the [contributor proposal template](../../../templates/forms/contributor-proposal.md) or copy an example contributor proposal \[LINK] and create a file in the candidates folder.
 2. **Fill in contributor proposal** - Update the proposal template with your own personal and professional information.
 3. **Create pull request** - Submit your contributor proposal as a pull request with the title of "Contributor proposal - \[Your full name]". Use this [example proposal pull request](https://github.com/web3association/contributor-funding-experiment-example/pull/1) as a reference. Share your proposal pull request with the community and the fund operator.&#x20;
 4. **Review proposal feedback** - Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.

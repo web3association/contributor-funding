@@ -1,4 +1,4 @@
-# Contributor Proposal Template
+# Contributor proposal form
 
 **Full Name** - Required. Added as the proposal title.
 
@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/profile1-240.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/profile1-240.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
