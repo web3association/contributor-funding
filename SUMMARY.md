@@ -14,6 +14,7 @@
     * [Contributor guide](contributor-funding-experiment/templates/guides/contributor-guide.md)
     * [Contribution attestation guide](contributor-funding-experiment/templates/guides/contribution-attestation-guide.md)
     * [Voter guide](contributor-funding-experiment/templates/guides/voter-guide.md)
+    * [Funding operator guide](contributor-funding-experiment/templates/guides/funding-operator-guide.md)
   * [Forms](contributor-funding-experiment/templates/forms/README.md)
     * [Contributor proposal form](contributor-funding-experiment/templates/forms/contributor-proposal-form.md)
     * [Contribution log form](contributor-funding-experiment/templates/forms/contribution-log-form.md)
