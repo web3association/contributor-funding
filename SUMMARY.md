@@ -6,7 +6,7 @@
 
 * [Objectives](contributor-funding-experiment/objectives.md)
 * [Opportunities](contributor-funding-experiment/opportunities.md)
-* [Funding process roadmap](contributor-funding-experiment/funding-process-roadmap.md)
+* [Development roadmap](contributor-funding-experiment/development-roadmap.md)
 * [Experiment setup](contributor-funding-experiment/experiment-setup/README.md)
   * [Tech stack](contributor-funding-experiment/experiment-setup/tech-stack.md)
   * [Templates](contributor-funding-experiment/experiment-setup/templates/README.md)
