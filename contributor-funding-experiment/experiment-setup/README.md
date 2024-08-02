@@ -49,3 +49,13 @@ The total amount of time it takes for the community, contributors, voters and fu
 {% content-ref url="time-and-cost-estimates.md" %}
 [time-and-cost-estimates.md](time-and-cost-estimates.md)
 {% endcontent-ref %}
+
+
+
+**Contributor funding experiment example**
+
+An example experiment has been setup to show how these templates and suggestions could be used to create a contributor funding experiment:
+
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZE8rIZvI1VylVcwzSPzR/" %}
+[Experiment Example](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZE8rIZvI1VylVcwzSPzR/)
+{% endcontent-ref %}

@@ -34,6 +34,7 @@
 ## 🔗 Links
 
 * [Contributors](https://docs.contributors.org)
+* [Contributor Funding Experiment Example](https://example.contributors.org)
 
 ## 🙋 Contributors
 
