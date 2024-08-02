@@ -7,13 +7,9 @@ description: >-
 
 # Development roadmap
 
-The initial experiment is simple and easy to execute. The results from the experiment should provide insightful data about how a contributor funding process can be operated. After this experiment is completed a number of different development efforts could be made to improve future iterations of this funding process.
-
-
-
 ## **Initial experiment focus**
 
-The initial experiment focuses on trialling some of the suggested approaches that emerged from the [funding process analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/). This experiment will help to generate a large amount of data that can then be further analysed to make comparisons with other funding processes. The key components of this initial experiment include:
+The initial experiment is entirely focused on learning as much as possible about operating a contributor funding process. This experiment will trail a number of the suggested approaches that emerged from the [funding process analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) that will be highlighted below. Experimenting with many different approaches and keeping costs low will help with minimising the cost to learn about contributor funding processes. This experiment should help to generate a large amount of data that can be further analysed to make comparisons with other funding processes. The key components of this initial experiment include:
 
 * **Community prioritisation suggestions** - A public priority suggestion board will help with experimenting with an independent priority system. This will be useful to see what priorities the community suggests and what they upvote over time. It will also be useful to see how contributors respond to these suggestions.
 * **Simple idea system** - A simple task management board is a good starting point for exploring how an idea systems could be implemented. It would be useful to experiment with a more complete system in the future that enables contributors and community members to share draft ideas that can be improved over time more collaborative until they are ready for execution. For now a simple task management solution will suffice.
@@ -27,7 +23,7 @@ The initial experiment focuses on trialling some of the suggested approaches tha
 
 ## **Future development ideas**
 
-After the initial experiment is completed there are a number of focus areas to consider that can improve the contributor funding process. In a rough order of priority some of these focus areas could include:
+After the initial experiment is completed there will be a number of learnings that can be made by analysing the data that has been created and collected. These insights can help with guiding future experiments to continue learning about contributor funding. As effective approaches emerge the next step will be to start developing more complete solutions that incorporate the learnings from initial experiments. In a rough order of priority some of these potential areas of development could include:
 
 * **Contributor profiles** - Identity solutions could help with making contributor profiles for storing and sharing personal and professional information about a contributor. Contributors would then be able to create their own identity profile which can showcase their contributions and involvement in a each ecosystem.
 * **Contribution logs** - Contribution logs can be increasingly automated over time to make it easier and quicker for contributors to record and showcase their contribution outputs. Tools and libraries that are already being developed in the industry could be directly integrated into a contributor funding process to improve how contribution logs are recorded.
