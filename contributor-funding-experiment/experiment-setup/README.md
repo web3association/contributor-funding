@@ -4,7 +4,7 @@ description: Resources and suggestions for setting up a contributor funding expe
 
 # Experiment setup
 
-The [funding operator guide](templates/guides/funding-operator-guide.md) goes through all of the main tasks and responsibilities involved in setting up and operating this contributor funding experiment. In regards to setting up the experiment the key tasks involved have been separated into three different phases:
+This experiment is focused on exploring how effective an [open source contributor funding process](https://docs.contributors.org/proposal/open-source-contributors) could be for Web3 ecosystems. The [funding operator guide](templates/guides/funding-operator-guide.md) covers the main tasks and responsibilities involved in setting up and operating this contributor funding experiment. In regards to setting up the experiment the key tasks involved have been separated into three different phases:
 
 1. **Priority suggestions setup** - A priority board should be setup first so that community suggestions can be shared. The priority suggestions will then be reviewed with the founding entities to assess whether there is a sufficient amount of impactful contribution areas to work on that justify the expense of funding some contributors to work on those areas.
 2. **Proposal submissions setup** - If there are enough impactful contribution areas to work on the next step is to setup the proposal submission process so that community members can submit their proposals. The founding entities will then review these proposals to make a final decision about whether they want to continue the funding experiment based on the proposals submitted.
