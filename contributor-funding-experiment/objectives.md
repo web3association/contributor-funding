@@ -10,7 +10,7 @@ The overall goal of this contributor funding experiment is to learn as much as p
 
 **Record prioritisation suggestion data**
 
-A prioritisation suggestion board is going to help with learning about what priorities the community thinks are important and how those priorities get addressed or change over time. A separate priority process means that suggestions can be submitted at anytime and receive upvotes at anytime. It will be insightful to understand how these priorities influence the efforts of the contributors and what impact this process could make for supporting a more flexible and dynamic contribution process that can respond to these suggestions. Measuring this objective:
+A prioritisation suggestion board is going to help with learning about what priorities the community thinks are important and how those priorities get addressed or change over time. A separate priority process means that suggestions can be submitted at any time and receive upvotes at any time. It will be insightful to understand how these priorities influence the efforts of the contributors and what impact this process could make for supporting a more flexible and dynamic contribution process that can respond to these suggestions. Measuring this objective:
 
 * Priority suggestions - The priority suggestions board will be publicly available to allow any community members to make suggestions and upvote or give feedback to existing suggestions. This data can be collected and analysed at the end of the funding experiment to understand how this influenced the contribution outcomes.&#x20;
 * Contribution tasks - A contribution task board will be public and enable anyone in the community to see what a contributor is working on. This board will provide data about what actual contribution efforts get focussed on which can then be compared to the priorities that have been suggested. It should also be insightful to see how community members give feedback to contributors based on the tasks they are executing and the priorities which are currently being suggested and endorsed by the community.
@@ -20,7 +20,7 @@ A prioritisation suggestion board is going to help with learning about what prio
 
 **Record contributor proposal data**
 
-The submission of contributor proposals and the voters selection of those proposals can provide insightful data about what information is most important and which factors were the most correlated with proposal success. This data can help with future efforts to minimise the information that is needed for voters to make well informed decisions so that the voting process can become more efficient and scalable. Measuring this objective:
+The submission of contributor proposals and the selection of those proposals can provide insightful data about what information is most important and which factors were the most correlated with proposal success. This data can help with future efforts to minimise the information that is needed for voters to make well informed decisions so that the voting process can become more efficient and scalable. Measuring this objective:
 
 * Contributor proposals submitted - All of the contributor proposals submitted should provide useful data about how different people have approached writing a contributor proposal.
 * Contributor proposal submission feedback - The proposers might have valuable feedback about the submission process and provide ideas about what other information could be added.
@@ -52,8 +52,8 @@ A public contribution task board should provide useful insights about how contri
 [Individual monthly contribution logs](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/contributions/contribution-verification/individual-monthly-contribution-logs) represent a simple and potentially highly effective way for recording and verifying contribution efforts. Contribution log data will help with making comparisons with other contribution verification approaches used in other funding processes to see which ones are most effective. Measuring this objective:
 
 * Contribution logs - Contributors will be required to submit their contribution logs to provide evidence of the contribution outputs they have generated in that month. All contributions can be recorded publicly as all contribution outcomes must be open source. Contribution logs will be open source and available on a code repository for anyone to collect and review.
-* Contribution attestations - Community members can give attestations about someones contribution efforts. This will provide more evidence in situations where contribution efforts are harder to digitally record and verify.
-* Funding process contributor feedback - Contributors will be asked to provide their feedback about the contribution log process once they have complete the funding process. This feedback could be highly valuable in understanding how simple or complex this process was for them and what the overall sentiments are.
+* Contribution attestations - Community members can give attestations about someone's contribution efforts. This will provide more evidence in situations where contribution efforts are harder to digitally record and verify.
+* Funding process contributor feedback - Contributors will be asked to provide their feedback about the contribution log process once they have completed the funding process. This feedback could be highly valuable in understanding how simple or complex this process was for them and what the overall sentiments are.
 
 
 
@@ -63,7 +63,7 @@ A contributor funding process could help with creating a highly collaborative en
 
 * Priority suggestions - Priority suggestions will generate valuable information about how people collaborate and discuss different suggestions and how those suggestions eventually lead to executed ideas.
 * Contribution tasks - Contribution tasks will show how contributors are collaborating together and with other ecosystem projects. Contributors may also need to respond to community feedback.&#x20;
-* Contribution logs - Contribution logs will highlight what actually happened and what was delivered. This data will be highly insightful to see how many ideas a contributor worked on, how thy collaborated with different teams and which contribution styles were the most effective.
+* Contribution logs - Contribution logs will highlight what actually happened and what was delivered. This data will be highly insightful to see how many ideas a contributor worked on, how they collaborated with different teams and which contribution styles were the most effective.
 * Contributor peer reviews & feedback - Contributors and community members could provide insightful information about the impact and relevance of certain contribution efforts and how those contributions were valuable.&#x20;
 
 
@@ -86,7 +86,7 @@ After the funding process experiment is completed the opinions and preferences o
 * Contribution task feedback - Any feedback given could be useful for identifying different ways to execute a task or sharing things that the contributor might not have considered or known about.&#x20;
 * Contributor peer review & feedback - What other people say about another contributor could be very insightful for seeing some honest opinions and preferences that people might have about the contributors and funding process. This data could reveal a number of opinions and preferences such as what expectations were missed or how one contributor might have impacted them personally.
 * Funding process contributor feedback - Asking contributors about what they thought of the funding process, what their next steps are in the ecosystem and whether they preferred this funding process versus other approaches could be highly valuable feedback. This information should be useful for spotting any trends in what contributors think about the funding process and what they end up doing next after having this experience. Contributors may end up working with collaborators they met during the funding process or they might prefer to continue being a funded contributor in a future funding round.
-* Funding process voter feedback - Voters will be asked about what they thought of the funding process and how effective it was at generating impact for the ecosystem. Each voter could have a different perspective about what outcomes they expected to happen with the funding process. This feedback should help to identify and shortcomings of the funding process or where it might have met their expectations.
+* Funding process voter feedback - Voters will be asked about what they thought of the funding process and how effective it was at generating impact for the ecosystem. Each voter could have a different perspective about what outcomes they expected to happen with the funding process. This feedback should help to identify shortcomings of the funding process or where it might have met their expectations.
 
 
 
