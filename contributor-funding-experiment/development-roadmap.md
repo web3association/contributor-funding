@@ -7,7 +7,7 @@ description: >-
 
 # Development roadmap
 
-## **Initial experiment focus**
+**Initial experiment focus**
 
 The initial experiment is entirely focused on learning as much as possible about operating a contributor funding process. This experiment has been created to explore the potential effectiveness of [open source contributor funding](https://docs.contributors.org/proposal/open-source-contributors). Several of the suggested approaches that emerged from the [funding process analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) will be trialled in this experiment. Many of these suggestions are highlighted below. Experimenting with new approaches whilst keeping the costs as low as possible will help with maximising the cost efficiency for learning as much as possible about contributor funding. This experiment should help with generating a large amount of data that can be further analysed to make comparisons with other funding processes. The key components of this initial experiment include:
 
@@ -21,7 +21,7 @@ The initial experiment is entirely focused on learning as much as possible about
 
 
 
-## **Future development ideas**
+**Future development ideas**
 
 After the initial experiment is completed there will be a number of learnings that can be made by analysing the data that has been created and collected. These insights can help with guiding future experiments to continue learning about contributor funding. As effective approaches emerge the next step will be to start developing more complete solutions that incorporate the learnings from initial experiments. In a rough order of priority some of these potential areas of development could include:
 
