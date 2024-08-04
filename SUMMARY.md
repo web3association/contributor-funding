@@ -27,7 +27,7 @@
       * [Voter experiment feedback](contributor-funding-experiment/experiment-setup/templates/questionnaires/voter-experiment-feedback.md)
       * [Contributor experiment feedback](contributor-funding-experiment/experiment-setup/templates/questionnaires/contributor-experiment-feedback.md)
     * [Google Sheets](contributor-funding-experiment/experiment-setup/templates/google-sheets/README.md)
-      * [Contributor voting sheet](https://docs.google.com/spreadsheets/d/1vxd9KvrnAJX378e\_2sJmo00CKzRZF3t1Efj5\_FJ1jJA)
+      * [Contributor voting sheet](https://docs.google.caom/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg/edit?gid=0#gid=0)
   * [Approach & parameter decisions](contributor-funding-experiment/experiment-setup/approach-and-parameter-decisions.md)
   * [Time & cost estimates](contributor-funding-experiment/experiment-setup/time-and-cost-estimates.md)
 
