@@ -60,7 +60,7 @@ List out any projects where you have been managing the updates and actively help
 
 **Feedback & reviews**
 
-List out any reviews or feedback you have given to other peoples code, designs, documents or other contributions. Link the overall pull request, document or design file that you have commented on rather than linking every specific piece of feedback within those pages.
+List out any reviews or feedback you have given to other people's code, designs, documents or other contributions. Link the overall pull request, document or design file that you have commented on rather than linking every specific piece of feedback within those pages.
 
 
 
@@ -72,7 +72,7 @@ List out any other contribution outputs that are not covered in the areas above.
 
 ## **Contribution efforts**
 
-Contributions that can be more easily proven using online evidence links should be added to the contribution outputs section. Some contributions do not lead to an output and some contributions are not as easily recorded online. It is preferred that contributions are recorded when possible so that they can be verified and reviewed by others. When there is no sufficient online evidence of someones contribution effort a contributor can instead add those contribution efforts in this section. These contribution efforts would ideally then receive attestations from other contributors and community members that can vouch for the contributor that they did in fact make those contributions.
+Contributions that can be more easily proven using online evidence links should be added to the contribution outputs section. Some contributions do not lead to an output and some contributions are not as easily recorded online. It is preferred that contributions are recorded when possible so that they can be verified and reviewed by others. When there is no sufficient online evidence of someone's contribution effort a contributor can instead add those contribution efforts in this section. These contribution efforts would ideally then receive attestations from other contributors and community members that can vouch for the contributor that they did in fact make those contributions.
 
 
 
@@ -94,7 +94,7 @@ List out any discussions you had with other contributors or the wider community.
 
 **Events**
 
-List out any events that have happened recently that you contributed towards and what you helped with. Events could include community meet ups, team building sessions, presentations, focus groups, hackathons and work shops. The format for these entries are as follows:
+List out any events that have happened recently that you contributed towards and what you helped with. Events could include community meet ups, team building sessions, presentations, focus groups, hackathons and workshops. The format for these entries are as follows:
 
 * Name of the event, date it happened - Outline how you contributed to the event.
 

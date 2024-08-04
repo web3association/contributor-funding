@@ -18,7 +18,7 @@ Most of the funding process information can be stored in an open source GitHub r
 
 [**GitHub Projects**](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
-GitHub projects can be used for the contribution board as this board would then be public and easily accessible in the same GitHub repository. This is simple and light weight solution that should be suitable for small experiments that only have a handful of contributors being funded.
+GitHub projects can be used for the contribution board as this board would then be public and easily accessible in the same GitHub repository. This is a simple and lightweight solution that should be suitable for small experiments that only have a handful of contributors being funded.
 
 
 
