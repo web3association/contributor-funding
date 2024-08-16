@@ -4,6 +4,7 @@
 
 ## Contributor funding experiment
 
+* [Overview](contributor-funding-experiment/overview.md)
 * [Objectives](contributor-funding-experiment/objectives.md)
 * [Development roadmap](contributor-funding-experiment/development-roadmap.md)
 * [Experiment setup](contributor-funding-experiment/experiment-setup/README.md)

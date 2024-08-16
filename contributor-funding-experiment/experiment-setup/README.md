@@ -8,19 +8,6 @@ This experiment is focused on exploring how effective an [open source contributo
 
 
 
-**Contributor funding process overview**
-
-The main steps involved in this funding process are as follows:
-
-1. **Priority suggestions** - A priority suggestions board will be created that enables community members to share their own suggestions about what open source initiatives could be the most important to work on. Community members can also upvote and comment on any existing suggestions.
-2. **Contributor proposal submissions** - Community members are invited to submit contributor proposals with their personal and professional information. The community is invited to give feedback before these proposals are finalised.
-3. **Voting process** - A voting process is set up so that voters can select the contributors they believe will generate the most impact for the ecosystem. The voting results are collected together and released to the public.
-4. **Onboarding** - The successful contributors are then onboarded into the funding process and invited to join any of the chat channels that have been created for communication. The contribution task board is created and the initial tasks that contributors work on will be added.
-5. **Monthly contribution period** - Contributors begin their monthly contributions and will keep a record of their contribution outcomes in a contribution log. At the end of the month the contribution logs of each contributor are checked and verified so that they can continue to receive future payments. Contributors will continuously update their contribution tasks with any progress that has been made and community members are also able to respond to any of these tasks with their own feedback.
-6. **Completing the funding process** - Once the contributors have completed the funding round the community and contributors are asked to give the other contributors any peer review and feedback they might have. Voters and contributors are both then finally asked to give their feedback and opinion about the funding process overall.
-
-
-
 **Experiment setup overview**
 
 The [funding operator guide](templates/guides/funding-operator-guide.md) covers the main tasks and responsibilities involved in setting up and operating this contributor funding experiment. In regards to setting up the experiment as a funding operator the main tasks involved can be separated into three distinct phases:
