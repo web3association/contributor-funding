@@ -28,7 +28,7 @@
       * [Voter experiment feedback](contributor-funding-experiment/experiment-setup/templates/questionnaires/voter-experiment-feedback.md)
       * [Contributor experiment feedback](contributor-funding-experiment/experiment-setup/templates/questionnaires/contributor-experiment-feedback.md)
     * [Google Sheets](contributor-funding-experiment/experiment-setup/templates/google-sheets/README.md)
-      * [Contributor voting sheet](https://docs.google.com/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg)
+      * [Contributor voting sheet](https://docs.google.com/spreadsheets/d/1_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg)
   * [Approach & parameter decisions](contributor-funding-experiment/experiment-setup/approach-and-parameter-decisions.md)
   * [Time & cost estimates](contributor-funding-experiment/experiment-setup/time-and-cost-estimates.md)
 
@@ -39,4 +39,4 @@
 
 ## 🙋 Contributors
 
-* [Web3 Association](https://web3association.co)
+* [Web3 Association](https://web3association.io)
