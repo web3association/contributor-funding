@@ -31,7 +31,7 @@ The submission of contributor proposals and the selection of those proposals can
 
 **Record voting data**
 
-[Expressive approval voting](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/voting/score-voting-approaches) is an adaptation of approval voting that should help to increase the expressiveness of this voting process. This suggested voting system will be used in the contributor funding experiment and the voting results data can be analysed to see how people vote in practice. This data will provide more evidence about how effective this approach is and whether it should be trialled in a larger experiment. Measuring this objective:
+[Expressive approval voting](/broken/spaces/qIN4B3DGHPqKOl7e6VuV/pages/ZMa02Hs0lGdjavL6AuVR) is an adaptation of approval voting that should help to increase the expressiveness of this voting process. This suggested voting system will be used in the contributor funding experiment and the voting results data can be analysed to see how people vote in practice. This data will provide more evidence about how effective this approach is and whether it should be trialled in a larger experiment. Measuring this objective:
 
 * Voting results - Expressive approval voting will be used in this funding experiment. This voting system can be trialled using existing services and tools such as Google Form and Google Sheets. Anonymised voting data can then be released to the public for further review and analysis.
 * Voting process feedback - Voters will be asked to provide their feedback about the voting process when they complete the contributor selection decision process. This should help to identify any concerns or issues that people had with the voting approach and any suggestions for improvement.
